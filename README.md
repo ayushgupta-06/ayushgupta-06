@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ayush, who is eager to learn new tech stacks and currently learning Full-stack Development 🚀</div>  
   
 
@@ -22,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -46,16 +41,13 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
 ### Version Control  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+</div> 
 
 <br/>  
 
@@ -105,6 +97,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
