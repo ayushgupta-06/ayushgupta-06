@@ -1,4 +1,4 @@
-### <div align="center">I'm Ayush, who is eager to learn new tech stacks and currently learning Full-stack Development 🚀</div>  
+## <div align="center">I'm Ayush, who is eager to learn new tech stacks and currently learning Full-stack Development 🚀</div>  
   
 
 - 🔭 I’m currently working on Front-end Web Development  
